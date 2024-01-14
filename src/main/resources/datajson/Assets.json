@@ -1,0 +1,12 @@
+{
+  "createAsset": [
+    {
+      "contentType": "base",
+      "externalID": "123suchok",
+      "values": {
+        "title": "Suchok",
+        "description": "some description"
+      }
+    }
+  ]
+}

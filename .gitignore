@@ -1,0 +1,11 @@
+/loggerTextReportAdapter.txt
+/firefox_logs.txt
+/test-output
+/target/*
+/.idea
+/.metadata
+/.settings
+/bin
+/PageError.log
+/chromedriver.log
+/target/
