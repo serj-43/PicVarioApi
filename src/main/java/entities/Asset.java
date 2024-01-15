@@ -21,4 +21,6 @@ public class Asset {
     private AssetValues values;
     @JsonIgnore
     private int pk;
+    @JsonIgnore
+    private String filepath;
 }

@@ -2,7 +2,7 @@
   "createAsset": [
     {
       "contentType": "base",
-      "externalID": "123suchok",
+      "filepath": "src/main/resources/media/testPicture.png",
       "values": {
         "title": "Suchok",
         "description": "some description"
